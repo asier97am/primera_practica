@@ -1,0 +1,11 @@
+conda create --name desarrollo Python =3.9
+conda actívate desarrollo
+conda install numpy
+--------------OTRAS FORMAS-----------------
+conda install -c conda-forge numpy
+pip install numpy
+
+-------------------------------------------
+conda env list (listar entornos
+
+conda deactivate
